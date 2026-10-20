@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520">
+<title>Aster — Bring your world closer.</title>
+<desc>Remote access, file sync and developer tools. getaster.now</desc>
+<rect width="1600" height="520" fill="#173f2c"/>
+<g transform="translate(1250 120) scale(0.45)"><ns0:rect xmlns:ns0="http://www.w3.org/2000/svg" width="512" height="512" rx="112" fill="#0B0F14" />
+  
+    <ns0:circle xmlns:ns0="http://www.w3.org/2000/svg" cx="256" cy="256" r="176.00" stroke="#2A3442" stroke-width="10.00" opacity="0.55" />
+    <ns0:polygon xmlns:ns0="http://www.w3.org/2000/svg" points="256.00,106.00 406.00,256.00 256.00,406.00 106.00,256.00" stroke="#61D6C2" stroke-width="20.00" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+    <ns0:polygon xmlns:ns0="http://www.w3.org/2000/svg" points="362.07,149.93 362.07,362.07 149.93,362.07 149.93,149.93" stroke="#61D6C2" stroke-width="20.00" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+    <ns0:polygon xmlns:ns0="http://www.w3.org/2000/svg" points="256.00,136.00 340.85,171.15 376.00,256.00 340.85,340.85 256.00,376.00 171.15,340.85 136.00,256.00 171.15,171.15" stroke="#78A6FF" stroke-width="10.00" opacity="0.38" stroke-linejoin="round" fill="none" />
+    <ns0:polygon xmlns:ns0="http://www.w3.org/2000/svg" points="256.00,194.00 299.84,212.16 318.00,256.00 299.84,299.84 256.00,318.00 212.16,299.84 194.00,256.00 212.16,212.16" fill="#0B0F14" stroke="#78A6FF" stroke-width="12.00" stroke-linejoin="round" />
+    <ns0:circle xmlns:ns0="http://www.w3.org/2000/svg" cx="256" cy="256" r="14.00" fill="#E6C06B" />
+    
+</g>
+<g fill="#f4f1e8" font-family="Helvetica, Arial, sans-serif">
+<text x="72" y="110" font-size="46" font-weight="600" letter-spacing="-2">aster<tspan fill="#b8ce9c">.</tspan></text>
+<text x="72" y="230" font-family="Georgia, serif" font-size="76" letter-spacing="-2">Bring your world closer.</text>
+<text x="76" y="300" font-size="27" fill="#dae3d4">Remote access, file sync and developer tools.</text>
+<path d="M76 404 H1524" stroke="#78917a" stroke-width="1"/>
+<text x="76" y="452" font-size="22">getaster.now</text>
+<text x="1524" y="452" font-size="20" text-anchor="end" fill="#dae3d4">GetAster on GitHub</text>
+</g></svg>
